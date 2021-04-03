@@ -2,6 +2,10 @@
 
 Some description!
 
-## Subheader
+## Subeheader
 
-Watch tutorial on YOuTube
+Watch tutorial on YouTUBE.
+
+## Local Development
+
+1. Open index.hmtl in our browser.
